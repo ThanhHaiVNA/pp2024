@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Dinh Thanh Hai 
-* Student ID: 22BA13119
+* Student ID: 22BA13119.
 
